@@ -1,10 +1,4 @@
-```css
-body {
-  background: #24292e;
-}
-```
-
-<div style="background:#24292e" markdown="1">
+<div markdown="1" style="background:#24292e">
 
   [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
 
