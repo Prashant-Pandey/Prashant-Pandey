@@ -1,11 +1,3 @@
----
-title: Prashant Pandey 
-date: '2020-01-10'
-spoiler: Tabular Readme Template
-categories: ["tabular", "all-profile"]
-githubUsername: 'Prashant-Pandey'
----
-
   [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
 <p>
   <h1 align="center"><b>Hello there, I'm Prashant Pandey 👋</b></h1>
