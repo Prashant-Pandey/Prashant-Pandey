@@ -1,4 +1,7 @@
+<div style="background-color:#24292e">
+
   [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
+
 <p>
   <h1 align="center"><b>Hello there, I'm Prashant Pandey 👋</b></h1>
 </p>
@@ -47,3 +50,4 @@
 </a>
 
 ![picture](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
+</div>
